@@ -1,0 +1,25 @@
+h1          { 
+            color:     blue;
+            font-family: Arial;
+            text-align: center
+            }
+body        {background-color: silver;
+            font-family: Arial;
+            text-align: left;
+            }
+table       {width: 200px;
+            margin:auto;
+            border-collapse: collapse
+            }
+th          {color: yellow;
+            background-color: blue;
+            border: 1px solid;
+            }
+td          {border: 1px solid;
+            }
+.gerade     {background-color: lightblue
+            }
+.ungerade   {background-color: cyan
+            }
+tr:hover    {background-color: red;
+            }
